@@ -27,3 +27,4 @@ class Stack:
         node = Node(data, self.top)
         self.top = node
 
+
